@@ -1,0 +1,27 @@
+###########################################################
+####               ICTC Regression Report              ####
+###########################################################
+Total testcase run: 16
+Passed            : 16
+Failed            : 0
+Unknown           : 0
+Used time         : 10m 26s
+-----------------------------------------------------------
+Run log detail:
+log/default_value_reg_test_736364.log: => Passed
+log/fifo_rx_test_986396.log: => Passed
+log/fifo_tx_test_337775.log: => Passed
+log/reserved_reg_test_179324.log: => Passed
+log/rst_otf_reg_test_488514.log: => Passed
+log/rw_reg_test_516429.log: => Passed
+log/uart_corner_baud_jump_test_345245.log: => Passed
+log/uart_full_duplex_ran_cfg_test_993815.log: => Passed
+log/uart_full_duplex_seq_cfg_test_691242.log: => Passed
+log/uart_function_otf_test_1.log: => Passed
+log/uart_half_rx_ran_cfg_test_176683.log: => Passed
+log/uart_half_rx_seq_cfg_test_415083.log: => Passed
+log/uart_half_tx_ran_cfg_test_634696.log: => Passed
+log/uart_half_tx_seq_cfg_test_557407.log: => Passed
+log/uart_interrupt_parity_test_315080.log: => Passed
+log/uart_multi_interrupt_test_326103.log: => Passed
+-----------------------------------------------------------
